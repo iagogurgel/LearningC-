@@ -37,67 +37,67 @@ int main()
                 system("CLS");
                 switch(op2){
                     case 1:
-                        cout << "A supernova SN 185 faz parte da constelação de Centaurus." << endl;
+                        cout << "A supernova SN 185 faz parte da constelaÃ§Ã£o de Centaurus." << endl;
                         cout << "Tem uma magnitude aparente de -4." << endl;
-                        cout << "Está a 8.200 anos-luz da Terra." << endl;
-                        cout << "Ela foi produzida a partir de uma explosão de uma anã branca." << endl;
-                        cout << "Ela se localiza em nossa galáxia, a Via Láctea" << endl;
+                        cout << "EstÃ¡ a 8.200 anos-luz da Terra." << endl;
+                        cout << "Ela foi produzida a partir de uma explosÃ£o de uma anÃ£ branca." << endl;
+                        cout << "Ela se localiza em nossa galÃ¡xia, a Via LÃ¡ctea" << endl;
                         cout << "Digite '1' para voltar" << endl;
                         cin >> while1;
                         system("CLS");
                         break;
                     case 2:
-                        cout << "A supernova SN 386 faz parte da constelação de Sagittarius." << endl;
+                        cout << "A supernova SN 386 faz parte da constelaÃ§Ã£o de Sagittarius." << endl;
                         cout << "Tem uma magnitude aparente de +1.5." << endl;
-                        cout << "Está a 14.700 anos-luz da Terra." << endl;
-                        cout << "Ela se localiza em nossa galáxia, a Via Láctea" << endl;
+                        cout << "EstÃ¡ a 14.700 anos-luz da Terra." << endl;
+                        cout << "Ela se localiza em nossa galÃ¡xia, a Via LÃ¡ctea" << endl;
                         cout << "Digite '1' para voltar " << endl;
                         cin >> while1;
                         system("CLS");
                         break;
                     case 3:
-                        cout << "A supernova SN 393 faz parte da constelação de Scorpius." << endl;
+                        cout << "A supernova SN 393 faz parte da constelaÃ§Ã£o de Scorpius." << endl;
                         cout << "Tem uma magnitude aparente de -0." << endl;
-                        cout << "Está a 34.000 anos-luz da Terra." << endl;
-                        cout << "Ela se localiza em nossa galáxia, a Via Láctea" << endl;
+                        cout << "EstÃ¡ a 34.000 anos-luz da Terra." << endl;
+                        cout << "Ela se localiza em nossa galÃ¡xia, a Via LÃ¡ctea" << endl;
                         cout << "Digite '1' para voltar " << endl;
                         cin >> while1;
                         system("CLS");
                         break;
                     case 4:
-                        cout << "A supernova SN 1006 faz parte da constelação de Lupus." << endl;
+                        cout << "A supernova SN 1006 faz parte da constelaÃ§Ã£o de Lupus." << endl;
                         cout << "Tem uma magnitude aparente de -7.5." << endl;
-                        cout << "Está a 7.200 anos-luz da Terra." << endl;
-                        cout << "Ela se localiza em nossa galáxia, a Via Láctea" << endl;
+                        cout << "EstÃ¡ a 7.200 anos-luz da Terra." << endl;
+                        cout << "Ela se localiza em nossa galÃ¡xia, a Via LÃ¡ctea" << endl;
                         cout << "Digite '1' para voltar " << endl;
                         cin >> while1;
                         system("CLS");
                         break;
                     case 5:
-                        cout << "A supernova SN 1054 faz parte da constelação de Taurus." << endl;
+                        cout << "A supernova SN 1054 faz parte da constelaÃ§Ã£o de Taurus." << endl;
                         cout << "Tem uma magnitude aparente de -6." << endl;
-                        cout << "Está a 6.500 anos-luz da Terra." << endl;
-                        cout << "Ela foi produzida a partir de uma explosão de estrela massiva." << endl;
-                        cout << "Ela se localiza em nossa galáxia, a Via Láctea" << endl;
+                        cout << "EstÃ¡ a 6.500 anos-luz da Terra." << endl;
+                        cout << "Ela foi produzida a partir de uma explosÃ£o de estrela massiva." << endl;
+                        cout << "Ela se localiza em nossa galÃ¡xia, a Via LÃ¡ctea" << endl;
                         cout << "Digite '1' para voltar " << endl;
                         cin >> while1;
                         system("CLS");
                         break;
                     case 6:
-                        cout << "A supernova SN 1572 faz parte da constelação de Cassiopeia." << endl;
+                        cout << "A supernova SN 1572 faz parte da constelaÃ§Ã£o de Cassiopeia." << endl;
                         cout << "Tem uma magnitude aparente de -4." << endl;
-                        cout << "Está a 8.000 anos-luz da Terra." << endl;
-                        cout << "Ela foi produzida a partir de uma explosão de uma anã branca." << endl;
-                        cout << "Ela se localiza em nossa galáxia, a Via Láctea" << endl;
+                        cout << "EstÃ¡ a 8.000 anos-luz da Terra." << endl;
+                        cout << "Ela foi produzida a partir de uma explosÃ£o de uma anÃ£ branca." << endl;
+                        cout << "Ela se localiza em nossa galÃ¡xia, a Via LÃ¡ctea" << endl;
                         cout << "Digite '1' para voltar " << endl;
                         cin >> while1;
                         system("CLS");
                         break;
                     case 7:
-                        cout << "A supernova SN 1604 faz parte da constelação de Ophiuchus." << endl;
+                        cout << "A supernova SN 1604 faz parte da constelaÃ§Ã£o de Ophiuchus." << endl;
                         cout << "Tem uma magnitude aparente de -3." << endl;
-                        cout << "Está a 14.000 anos-luz da Terra." << endl;
-                        cout << "Ela se localiza em nossa galáxia, a Via Láctea" << endl;
+                        cout << "EstÃ¡ a 14.000 anos-luz da Terra." << endl;
+                        cout << "Ela se localiza em nossa galÃ¡xia, a Via LÃ¡ctea" << endl;
                         cout << "Digite '1' para voltar " << endl;
                         cin >> while1;
                         system("CLS");
@@ -117,44 +117,45 @@ int main()
                 system("CLS");
                 switch (op3){
                     case 1:
-                        cout << "A supernova SN 1885A faz parte da constelação de Andrômeda." << endl;
+                        cout << "A supernova SN 1885A faz parte da constelaÃ§Ã£o de AndrÃ´meda." << endl;
                         cout << "Tem uma magnitude aparente de +7." << endl;
-                        cout << "Está a 2.400.000 anos-luz da Terra." << endl;
-                        cout << "Ela se localiza na galáxia de Andrômeda." << endl;
+                        cout << "EstÃ¡ a 2.400.000 anos-luz da Terra." << endl;
+                        cout << "Ela se localiza na galÃ¡xia de AndrÃ´meda." << endl;
                         cout << "Digite '1' para voltar " << endl;
                         cin >> while1;
                         system("CLS");
                         break;
                     case 2:
-                        cout << "A supernova SN 1987A faz parte da constelação de Dorado." << endl;
+                        cout << "A supernova SN 1987A faz parte da constelaÃ§Ã£o de Dorado." << endl;
                         cout << "Tem uma magnitude aparente de +2.9." << endl;
-                        cout << "Está a 160.000 anos-luz da Terra." << endl;
-                        cout << "Ela se localiza na Grande Nuvem de Magalhães." << endl;
+                        cout << "EstÃ¡ a 160.000 anos-luz da Terra." << endl;
+                        cout << "Ela se localiza na Grande Nuvem de MagalhÃ£es." << endl;
                         cout << "Digite '1' para voltar " << endl;
                         cin >> while1;
                         system("CLS");
                         break;
                     case 3:
-                        cout << "A supernova SN 2006gy faz parte da constelação de Perseus." << endl;
+                        cout << "A supernova SN 2006gy faz parte da constelaÃ§Ã£o de Perseus." << endl;
                         cout << "Tem uma magnitude aparente de +15." << endl;
-                        cout << "Está a 240.000.000 anos-luz da Terra." << endl;
-                        cout << "Ela se localiza na galáxia NGC 256." << endl;
+                        cout << "EstÃ¡ a 240.000.000 anos-luz da Terra." << endl;
+                        cout << "Ela se localiza na galÃ¡xia NGC 256." << endl;
                         cout << "Digite '1' para voltar  " << endl;
                         cin >> while1;
                         system("CLS");
                         break;
                     case 4:
-                        cout << "A supernova SN 2014J faz parte da constelação de Ursa Major." << endl;
+                        cout << "A supernova SN 2014J faz parte da constelaÃ§Ã£o de Ursa Major." << endl;
                         cout << "Tem uma magnitude aparente de +10.5." << endl;
-                        cout << "Está a 11.500.000 anos-luz da Terra." << endl;
-                        cout << "Ela se localiza na galáxia M82" << endl;
+                        cout << "EstÃ¡ a 11.500.000 anos-luz da Terra." << endl;
+                        cout << "Ela se localiza na galÃ¡xia M82" << endl;
                         cout << "Digite '1' para voltar  " << endl;
                         cin >> while1;
                         system("CLS");
                         break;
                     default:
-                        cout << "Não foi possível encontrar esta Supernova" << endl;
+                        cout << "NÃ£o foi possÃ­vel encontrar esta Supernova" << endl;
                         return 0;
+                        break;
 
 
 
