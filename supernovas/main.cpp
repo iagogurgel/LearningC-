@@ -155,7 +155,9 @@ int main()
                     default:
                         cout << "Não foi possível encontrar esta Supernova" << endl;
                         return 0;
+                        
                         break;
+                        
 
 
 
