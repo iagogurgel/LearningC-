@@ -8,6 +8,7 @@ using namespace std;
 
 int main()
 {
+    // Devid e Iago
     setlocale(LC_ALL, "Portuguese");
     int num1;
     int num2;
