@@ -20,15 +20,7 @@ int main()
     cin >> op;
     system("CLS");
 
-    switch (op){
-
-        case 'N':
-        case 'n':
-            cout << "Calculadora desligando..." << endl;
-            return 0;
-            break;
-        case 'S':
-        case 's':
+    while (op == 's' || op == 'S'){
             cout << "Digite um número: " << endl;
             cin >> num1;
             system("CLS");
@@ -78,9 +70,10 @@ int main()
 
 
             }
-            default:
-                cout << "Calculadora desligando...";
-            break;
-            return 0;
+
+            cout << "Você ainda quer continuar a usar a calculadora?" << endl;
+            cin >> op;
+
     }
+    return 0;
 }
