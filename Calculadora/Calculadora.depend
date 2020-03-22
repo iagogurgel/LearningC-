@@ -13,3 +13,13 @@
 	<locale.h>
 	<math.h>
 
+1584837334 source:/home/devid/Documentos/Dev-C++/Learing-C++/LearningC-/Calculadora/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	"funcoes-calcular.h"
+
+1584837162 /home/devid/Documentos/Dev-C++/Learing-C++/LearningC-/Calculadora/funcoes-calcular.h
+
