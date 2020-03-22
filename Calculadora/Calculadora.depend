@@ -23,3 +23,10 @@
 
 1584837162 /home/devid/Documentos/Dev-C++/Learing-C++/LearningC-/Calculadora/funcoes-calcular.h
 
+1584838754 source:/home/devid/Documentos/Dev-C++/Learing-C++/LearningC-/Calculadora/funcoes-calcular.cpp
+	<math.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

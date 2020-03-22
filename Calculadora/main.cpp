@@ -13,7 +13,6 @@ int main(){
     //Devid e Iago
     setlocale(LC_ALL, "Portuguese");
     float num1;
-    float num2;
     char op;
     char op2;
     float resultado;
@@ -39,51 +38,34 @@ int main(){
             limpar();
             switch (op2){
             case '+':
-                cout << "Digite o segundo número: " << endl;
-                cin >> num2;
-                limpar();
-                resultado = num1 + num2;
-                cout << "O resultado da soma é: " << resultado << endl;
+                resultado = soma(num1);
+                cout << "A soma vale:" << resultado << endl;
                 break;
             case '-':
-                cout << "Digite o segundo número: " << endl;
-                cin >> num2;
-                limpar();
-                resultado = num1 - num2;
-                cout << "O resultado da subtração é: " << resultado << endl;
+                resultado = dif(num1);
+                cout << "A diferença vale:" << resultado << endl;
                 break;
             case '*':
-                cout << "Digite o segundo número: " << endl;
-                cin >> num2;
-                limpar();
-                resultado = num1 * num2;
-                cout << "O resultado da multiplicação é: " << resultado << endl;
+                resultado = produto(num1);
+                cout << "O produto vale:" << resultado << endl;
                 break;
             case '/':
-                cout << "Digite o segundo número: " << endl;
-                cin >> num2;
-                limpar();
-                resultado = num1 / num2;
-                cout << "O resultado da divisão é: " << resultado << endl;
+                resultado = divi(num1);
+                cout << "O quociente vale:" << resultado << endl;
                 break;
             case '^':
-                cout << "Digite o segundo número: " << endl;
-                cin >> num2;
-                limpar();
-                resultado = pow(num1,num2);
-                cout << "O resultado da potência é: " << resultado << endl;
+                resultado = poten(num1);
+                cout << "A potencia vale:" << resultado << endl;
                 break;
             case 'Q':
             case 'q':
-                limpar();
-                resultado = sqrt(num1);
-                cout << "O resultado do radical é: " << resultado << endl;
+                resultado = raiz(num1);
+                cout << "A raiz quadrada vale:" << resultado << endl;
                 break;
             case 'C':
             case 'c':
-                limpar();
-                resultado = pow(num1, 1.0/3.0);
-                cout << "O resultado do radical é: " << resultado << endl;
+                resultado = cubo(num1);
+                cout << "A raiz cubica vale:" << resultado << endl;
                 break;
             default:
                 cout << "Não foi possível realizar esta operação.";
